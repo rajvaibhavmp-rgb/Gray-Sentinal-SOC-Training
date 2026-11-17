@@ -81,3 +81,30 @@ I will update this section as I learn and practice with additional cybersecurity
 Through this 8-week training, I aim to improve my practical cybersecurity knowledge, develop SOC Analyst skills, and maintain a consistent record of my learning and hands-on experience.
 
 This repository will reflect my progress, challenges, achievements, and technical growth throughout the program.
+
+
+## 📊 My 8-Week SOC Analyst Training Progress
+
+This section tracks my progress throughout the 8-week Gray Sentinel SOC Analyst training program.
+
+| Week | Training Progress | Status |
+|---|---|---|
+| Week 01 | Splunk Enterprise Security | 🔄 In Progress |
+| Week 02 | To be updated | ⏳ Not Started |
+| Week 03 | To be updated | ⏳ Not Started |
+| Week 04 | To be updated | ⏳ Not Started |
+| Week 05 | To be updated | ⏳ Not Started |
+| Week 06 | To be updated | ⏳ Not Started |
+| Week 07 | To be updated | ⏳ Not Started |
+| Week 08 | To be updated | ⏳ Not Started |
+
+### Week 01 — Daily Progress
+
+| Day | Topic | Status |
+|---|---|---|
+| Day 01 | Splunk ES Architecture & UI Orientation | ✅ Completed |
+| Day 02 | To be updated | ⏳ Pending |
+
+**Day 01 Documentation:** [View Day 01 Report](Week-01/Day-01.md)
+
+I will update this tracker as I complete each day's training activities.
