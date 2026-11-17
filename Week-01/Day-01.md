@@ -126,7 +126,7 @@ I successfully completed the Day 1 — Splunk Enterprise Security (ES) lab as pa
 - Passed all 7 knowledge assessment questions.
 - Received my Day 1 completion certificate.
 
-**Certificate:** [View Day 1 Certificate](Day-01-Certificate.png)
+**Certificate:** [View Day 1 Certificate](GraySentinel_SplunkES_Day1_SPLK-ES-XYMRDZU3-4RTV.png)
 
 This certificate serves as proof of my Day 1 training completion.
 ## 5. My Day 1 Reflection
