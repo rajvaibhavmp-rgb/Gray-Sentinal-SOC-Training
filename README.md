@@ -100,11 +100,20 @@ This section tracks my progress throughout the 8-week Gray Sentinel SOC Analyst 
 
 ### Week 01 — Daily Progress
 
-| Day | Topic | Status |
-|---|---|---|
-| Day 01 | Splunk ES Architecture & UI Orientation | ✅ Completed |
-| Day 02 | To be updated | ⏳ Pending |
+## 📊 Training Progress
 
-**Day 01 Documentation:** [View Day 01 Report](Week-01/Day-01.md)
+### Week 01 — Splunk Enterprise Security
+
+| Day | Topic | Status |
+|-----|-------|--------|
+| Day 01 | Splunk ES Architecture & UI Orientation | ✅ Completed |
+| Day 02 | Data Onboarding & TA Verification | ✅ Completed |
+
+### 📁 Daily Reports
+
+- [Day 01 Report](Week-01/Day-01.md)
+- [Day 02 Report](Week-01/Day-02.md)
+
+
 
 I will update this tracker as I complete each day's training activities.
