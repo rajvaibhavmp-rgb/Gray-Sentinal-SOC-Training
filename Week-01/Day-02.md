@@ -36,7 +36,7 @@ Topics covered:
 
 ## 4. Completion Certificate
 
-Certificate image will be added after uploading.
+ [View Day 2 Certificate](GraySentinel_SplunkES_Day2_SPLK-ES-XYMRDZU3-4RTV.png)
 
 ## 5. My Day 2 Reflection
 
