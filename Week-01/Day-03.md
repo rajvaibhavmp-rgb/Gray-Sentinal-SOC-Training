@@ -1,10 +1,15 @@
 # 🛡️ Day 03 – Splunk Enterprise Security (ES)
 
 **Training:** Gray Sentinel – SOC Analyst Training
+
 **Week:** 01
+
 **Day:** 03
+
 **Topic:** CIM Normalization & Event Type Mapping
+
 **Status:** ✅ Completed
+
 **Date:** 21 November 2026
 
 ## 📚 Topics Covered
