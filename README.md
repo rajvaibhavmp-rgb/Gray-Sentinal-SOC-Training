@@ -109,12 +109,14 @@ This section tracks my progress throughout the 8-week Gray Sentinel SOC Analyst 
 | Day 01 | Splunk ES Architecture & UI Orientation | ✅ Completed |
 | Day 02 | Data Onboarding & TA Verification | ✅ Completed |
 | Day 03 | CIM Normalization & Event Type Mapping | ✅ Completed |
+| Day 04 | Data Quality & Asset/Identity Framework | ✅ Completed |
 
 ### 📁 Daily Reports
 
 - [Day 01 Report](Week-01/Day-01.md)
 - [Day 02 Report](Week-01/Day-02.md)
 - [Day 03 Report](Week-01/Day-03.md)
+- [Day 04 Report](Week-01/Day-04.md)
 
 
 
