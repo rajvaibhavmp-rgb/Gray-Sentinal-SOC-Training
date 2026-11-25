@@ -39,7 +39,7 @@
 
 ## 📜 Completion Certificate
 
-Day 4 certificate will be uploaded here.
+[View Day 4 Certificate](GraySentinel_SplunkES_Day4_SPLK-ES-XYMRDZU3-4RTV)
 
 ## 💡 Day 4 Reflection
 
