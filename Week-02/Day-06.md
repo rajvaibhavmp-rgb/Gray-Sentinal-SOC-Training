@@ -45,7 +45,7 @@
 
 ## 📜 Completion Certificate
 
-Day 06 completion certificate will be uploaded here.
+![Day 06 - Week 2 Completion Certificate](GraySentinel_SplunkES_Day6_SPLK-ES-XYMRDZU3-4RTV.png)
 
 ## 💡 Day 6 Reflection
 
