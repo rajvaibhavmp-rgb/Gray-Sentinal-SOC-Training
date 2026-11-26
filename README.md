@@ -93,7 +93,7 @@ This section tracks my progress throughout the 8-week Gray Sentinel SOC Analyst 
 
 | Week | Training Progress | Status |
 |---|---|---|
-| Week 01 | Splunk Enterprise Security | 🔄 In Progress |
+| Week 01 | Splunk Enterprise Security | ✅ Completed |
 | Week 02 | To be updated | ⏳ Not Started |
 | Week 03 | To be updated | ⏳ Not Started |
 | Week 04 | To be updated | ⏳ Not Started |
@@ -114,6 +114,7 @@ This section tracks my progress throughout the 8-week Gray Sentinel SOC Analyst 
 | Day 02 | Data Onboarding & TA Verification | ✅ Completed |
 | Day 03 | CIM Normalization & Event Type Mapping | ✅ Completed |
 | Day 04 | Data Quality & Asset/Identity Framework | ✅ Completed |
+| Day 05 | Foundations & Normalization Audit | ✅ Completed |
 
 ### 📁 Daily Reports
 
@@ -121,7 +122,11 @@ This section tracks my progress throughout the 8-week Gray Sentinel SOC Analyst 
 - [Day 02 Report](Week-01/Day-02.md)
 - [Day 03 Report](Week-01/Day-03.md)
 - [Day 04 Report](Week-01/Day-04.md)
+- [Day 05 Report](Week-01/Day-05.md)
 
 
+✅ Week 01 – Splunk Enterprise Security (ES) successfully completed on 26 November 2026.
 
-I will update this tracker as I complete each day's training activities.
+All five training days are completed, including the final Foundations & Normalization Audit.
+
+The Week 01 completion certificate and daily reports are available in the Week-01 folder.
