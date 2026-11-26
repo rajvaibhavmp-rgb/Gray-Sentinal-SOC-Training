@@ -43,7 +43,7 @@
 
 ## 📜 Completion Certificate
 
-Day 5 / Week 1 completion certificate will be uploaded here.
+[Day 5 - Week 1 Completion Certificate](GraySentinel_SplunkES_Week1Complete_SPLK-ES-XYMRDZU3-4RTV)
 
 ## 💡 Day 5 Reflection
 
