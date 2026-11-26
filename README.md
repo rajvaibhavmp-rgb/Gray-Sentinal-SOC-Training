@@ -22,7 +22,7 @@ My goal is to build a strong foundation in cybersecurity, gain practical experie
 
 | Week | Progress |
 |---|---|
-| Week 01 | 🟡 In Progress |
+| Week 01 | ✅ Completed |
 | Week 02 | ⚪ Not Started |
 | Week 03 | ⚪ Not Started |
 | Week 04 | ⚪ Not Started |
@@ -33,7 +33,11 @@ My goal is to build a strong foundation in cybersecurity, gain practical experie
 
 ## 📂 My Learning Documentation
 
-I will organize my progress into weekly folders.
+My Week 01 training in Splunk Enterprise Security (ES) is successfully completed.
+Completed Days 01–05, covering Splunk ES foundations, data onboarding, CIM verification, and normalization auditing.
+Week 01 completion certificate is available in the Week-01 folder.
+
+I will continue organizing my progress into weekly folders.
 
 Each daily report will include:
 
